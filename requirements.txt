@@ -1,0 +1,25 @@
+# note: this will be under continuous update
+
+# Data Analysis and Scientific Computing
+numpy
+pandas
+scipy
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Deep Learning (PyTorch)
+torch
+torchvision
+torchaudio
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Utilities and Environment
+jupyter
+tqdm
+requests
