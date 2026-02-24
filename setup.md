@@ -1,9 +1,3 @@
-Since you are working in an environment where the system Python might be broken or restricted (as we saw with the `encodings` error), it is much safer to present **Conda** as the primary method while keeping **venv** as an alternative.
-
-I have updated your guide to prioritize the more robust Conda setup while refining the technical instructions for Python 3.12.
-
----
-
 # 📂 `pml26_env` setup guide (Python 3.12)
 
 This guide will walk you through setting up a clean, isolated Python 3.12 environment to run the notebooks and scripts in the **PML26** repository.
